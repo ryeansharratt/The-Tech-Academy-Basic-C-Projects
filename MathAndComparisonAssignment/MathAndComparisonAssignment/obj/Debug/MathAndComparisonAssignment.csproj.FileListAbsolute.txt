@@ -1,0 +1,7 @@
+C:\Users\Dell XPS\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\bin\Debug\MathAndComparisonAssignment.exe.config
+C:\Users\Dell XPS\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\bin\Debug\MathAndComparisonAssignment.exe
+C:\Users\Dell XPS\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\bin\Debug\MathAndComparisonAssignment.pdb
+C:\Users\Dell XPS\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\MathAndComparisonAssignment.csproj.AssemblyReference.cache
+C:\Users\Dell XPS\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\MathAndComparisonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\MathAndComparisonAssignment.exe
+C:\Users\Dell XPS\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\MathAndComparisonAssignment.pdb
