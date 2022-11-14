@@ -1,0 +1,7 @@
+C:\Users\Dell XPS\source\repos\SixPartConsoleAppAssignment\SixPartConsoleAppAssignment\bin\Debug\SixPartConsoleAppAssignment.exe.config
+C:\Users\Dell XPS\source\repos\SixPartConsoleAppAssignment\SixPartConsoleAppAssignment\bin\Debug\SixPartConsoleAppAssignment.exe
+C:\Users\Dell XPS\source\repos\SixPartConsoleAppAssignment\SixPartConsoleAppAssignment\bin\Debug\SixPartConsoleAppAssignment.pdb
+C:\Users\Dell XPS\source\repos\SixPartConsoleAppAssignment\SixPartConsoleAppAssignment\obj\Debug\SixPartConsoleAppAssignment.csproj.AssemblyReference.cache
+C:\Users\Dell XPS\source\repos\SixPartConsoleAppAssignment\SixPartConsoleAppAssignment\obj\Debug\SixPartConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\source\repos\SixPartConsoleAppAssignment\SixPartConsoleAppAssignment\obj\Debug\SixPartConsoleAppAssignment.exe
+C:\Users\Dell XPS\source\repos\SixPartConsoleAppAssignment\SixPartConsoleAppAssignment\obj\Debug\SixPartConsoleAppAssignment.pdb
