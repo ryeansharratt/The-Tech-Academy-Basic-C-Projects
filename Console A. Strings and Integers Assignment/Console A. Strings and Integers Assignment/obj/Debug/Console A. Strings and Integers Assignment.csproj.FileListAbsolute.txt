@@ -1,0 +1,7 @@
+C:\Users\Dell XPS\source\repos\Console A. Strings and Integers Assignment\Console A. Strings and Integers Assignment\bin\Debug\Console_A.Strings_and_Integers_Assignment.exe.config
+C:\Users\Dell XPS\source\repos\Console A. Strings and Integers Assignment\Console A. Strings and Integers Assignment\bin\Debug\Console_A.Strings_and_Integers_Assignment.exe
+C:\Users\Dell XPS\source\repos\Console A. Strings and Integers Assignment\Console A. Strings and Integers Assignment\bin\Debug\Console_A.Strings_and_Integers_Assignment.pdb
+C:\Users\Dell XPS\source\repos\Console A. Strings and Integers Assignment\Console A. Strings and Integers Assignment\obj\Debug\Console A. Strings and Integers Assignment.csproj.AssemblyReference.cache
+C:\Users\Dell XPS\source\repos\Console A. Strings and Integers Assignment\Console A. Strings and Integers Assignment\obj\Debug\Console A. Strings and Integers Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\source\repos\Console A. Strings and Integers Assignment\Console A. Strings and Integers Assignment\obj\Debug\Console_A.Strings_and_Integers_Assignment.exe
+C:\Users\Dell XPS\source\repos\Console A. Strings and Integers Assignment\Console A. Strings and Integers Assignment\obj\Debug\Console_A.Strings_and_Integers_Assignment.pdb
