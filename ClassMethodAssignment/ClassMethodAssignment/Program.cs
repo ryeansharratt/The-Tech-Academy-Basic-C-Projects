@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassMethodAssignment
 {
-    static class Program //declare this class as static
+    static class Program 
     {
         static void Main(string[] args)
         {
@@ -19,6 +19,8 @@ namespace ClassMethodAssignment
 
             firstClass.Math(out int num2, out int num3); //calling Math method with output parameters, also inlining variable declaration
             Console.ReadLine();
+
+            SecondClass.Print();
         }
     }
 }
