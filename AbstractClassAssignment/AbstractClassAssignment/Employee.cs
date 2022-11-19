@@ -6,13 +6,19 @@ using System.Threading.Tasks;
 
 namespace AbstractClassAssignment
 {
-    class Employee : Person
+    class Employee : Person, IQuittable
     { //implement SayName in this class...
 
         public override void SayName()
         {
             Console.WriteLine("Full name: ");
             base.SayName();
+        }
+
+        public void Quit() //start to implement IQuittable
+        {
+            Console.WriteLine("Quitting??");
+            Console.ReadLine();
         }
     }
 }
