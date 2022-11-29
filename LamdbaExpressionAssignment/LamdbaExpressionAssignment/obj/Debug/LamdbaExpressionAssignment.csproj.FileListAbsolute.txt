@@ -1,0 +1,7 @@
+C:\Users\Dell XPS\source\repos\LamdbaExpressionAssignment\LamdbaExpressionAssignment\bin\Debug\LamdbaExpressionAssignment.exe.config
+C:\Users\Dell XPS\source\repos\LamdbaExpressionAssignment\LamdbaExpressionAssignment\bin\Debug\LamdbaExpressionAssignment.exe
+C:\Users\Dell XPS\source\repos\LamdbaExpressionAssignment\LamdbaExpressionAssignment\bin\Debug\LamdbaExpressionAssignment.pdb
+C:\Users\Dell XPS\source\repos\LamdbaExpressionAssignment\LamdbaExpressionAssignment\obj\Debug\LamdbaExpressionAssignment.csproj.AssemblyReference.cache
+C:\Users\Dell XPS\source\repos\LamdbaExpressionAssignment\LamdbaExpressionAssignment\obj\Debug\LamdbaExpressionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\source\repos\LamdbaExpressionAssignment\LamdbaExpressionAssignment\obj\Debug\LamdbaExpressionAssignment.exe
+C:\Users\Dell XPS\source\repos\LamdbaExpressionAssignment\LamdbaExpressionAssignment\obj\Debug\LamdbaExpressionAssignment.pdb
