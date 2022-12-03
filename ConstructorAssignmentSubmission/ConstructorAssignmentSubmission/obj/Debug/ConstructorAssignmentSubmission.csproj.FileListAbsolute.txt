@@ -1,0 +1,7 @@
+C:\Users\Dell XPS\source\repos\ConstructorAssignmentSubmission\ConstructorAssignmentSubmission\bin\Debug\ConstructorAssignmentSubmission.exe.config
+C:\Users\Dell XPS\source\repos\ConstructorAssignmentSubmission\ConstructorAssignmentSubmission\bin\Debug\ConstructorAssignmentSubmission.exe
+C:\Users\Dell XPS\source\repos\ConstructorAssignmentSubmission\ConstructorAssignmentSubmission\bin\Debug\ConstructorAssignmentSubmission.pdb
+C:\Users\Dell XPS\source\repos\ConstructorAssignmentSubmission\ConstructorAssignmentSubmission\obj\Debug\ConstructorAssignmentSubmission.csproj.AssemblyReference.cache
+C:\Users\Dell XPS\source\repos\ConstructorAssignmentSubmission\ConstructorAssignmentSubmission\obj\Debug\ConstructorAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\source\repos\ConstructorAssignmentSubmission\ConstructorAssignmentSubmission\obj\Debug\ConstructorAssignmentSubmission.exe
+C:\Users\Dell XPS\source\repos\ConstructorAssignmentSubmission\ConstructorAssignmentSubmission\obj\Debug\ConstructorAssignmentSubmission.pdb
