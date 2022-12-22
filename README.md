@@ -1,6 +1,6 @@
 # C# Projects
 
-This is where my projects from The Tech Academy's C# course can be found!
+This is where my projects from The Tech Academy's C# & .NET course can be found!
 
 ## Main Projects:
 
