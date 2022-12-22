@@ -1,4 +1,4 @@
-# The-Tech-Academy-Basic-C-Projects.
+# C# Projects
 
 This is where my projects from The Tech Academy's C# course can be found!
 
