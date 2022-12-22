@@ -4,8 +4,8 @@ This is where my projects from The Tech Academy's C# course can be found!
 
 ## Main Projects:
 
-* Car Insurance
-* School Database
+* [Car Insurance](https://github.com/ryeansharratt/The-Tech-Academy-Basic-C-Projects/tree/main/CarInsurance)
+* [School Database](https://github.com/ryeansharratt/The-Tech-Academy-Basic-C-Projects/tree/main/StudentDBProject)
 
 ### Car Insurance
 
