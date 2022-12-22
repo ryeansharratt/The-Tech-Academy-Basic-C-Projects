@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "haanl8G/mMVrGGfYBL40QRlbM6olZhQKQFYnOeUpYck6StIYuQ2a08WZaRz5exqhhSvf0rSGDsFzFB9bzyidQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell XPS\\source\\repos\\DateTimeWebApp\\DateTimeWebApp\\DateTimeWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell XPS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Dell XPS\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Dell XPS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Dell XPS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
